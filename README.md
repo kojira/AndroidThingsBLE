@@ -4,6 +4,7 @@ https://github.com/googlesamples/android-BluetoothLeGatt
 
 ※参考
 Android Things Preview 4でBLE通信をしてみた
+
 http://qiita.com/kojira/items/587d6829814057360e89
 
 
