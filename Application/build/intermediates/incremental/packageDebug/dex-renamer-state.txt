@@ -1,0 +1,4 @@
+#Tue May 30 08:17:49 JST 2017
+base.0=/Users/kojira/develop/linking/android-BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/kojira/develop/linking/android-BluetoothLeGatt/Application/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
