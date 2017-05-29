@@ -1,54 +1,11 @@
+Android BluetoothLeGatt SampleをAndroid Thingsおよび、Linking向けに改造したものです。
 
-Android BluetoothLeGatt Sample
-===================================
-
-This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
-to transmit arbitrary data between devices.
-
-Introduction
-------------
-
-This sample shows a list of available Bluetooth LE devices and provides
-an interface to connect, display data and display GATT services and
-characteristics supported by the devices.
-
-It creates a [Service][1] for managing connection and data communication with a GATT server
-hosted on a given Bluetooth LE device.
-
-The Activities communicate with the Service, which in turn interacts with the [Bluetooth LE API][2].
-
-[1]:http://developer.android.com/reference/android/app/Service.html
-[2]:https://developer.android.com/reference/android/bluetooth/BluetoothGatt.html
-
-Pre-requisites
---------------
-
-- Android SDK v22
-- Android Build Tools v22.0.1
-- Android Support Repository
-
-Screenshots
--------------
-
-<img src="screenshots/1-main.png" height="400" alt="Screenshot"/> <img src="screenshots/2-detail.png" height="400" alt="Screenshot"/> 
-
-Getting Started
----------------
-
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
-
-Support
--------
-
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
-
-If you've found an error in this sample, please file an issue:
 https://github.com/googlesamples/android-BluetoothLeGatt
 
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
+- 参考
+	-Android Things Preview 4でBLE通信をしてみた
+	-http://qiita.com/kojira/items/587d6829814057360e89
+
 
 License
 -------
